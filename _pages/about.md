@@ -28,13 +28,18 @@ Recent News
 Publications
 ======
 
-**A unifying framework for joint trait analysis under a non-infinitesimal model**
+<span style="color:#db0a5b">**A unifying framework for joint trait analysis under a non-infinitesimal model**</span>
 
 __Ruth Johnson__; Huwenbo Shi, Bogdan Pasaniuc*, Sriram Sankararaman; ISMB 2018 (simultaneously published in Bioinformatics)
 
+<span style="color:#db0a5b">
 **Improved methods for multi-trait fine mapping of pleiotropic risk loci**
+</span>
 
 Gleb Kichaev; Megan Roytman; __Ruth Johnson__; Eleazar Eskin; Sara; Lindström; Peter Kraft; Bogdan Pasaniuc; Bioinformatics 2016.
+
+**(preprints)**
+
 
 
 <br>
