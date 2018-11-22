@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Ruthie Johnson"
   avatar           : "profile.jpg"
-  bio              : ""
-  location         : ""
+  bio              : 
+  location         : 
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=IpaMUH0AAAAJ&hl=en&authuser=1"
-  email            :
+  email            : "mailto:ruthjohnson@g.ucla.edu"
   uri              :
   bitbucket        :
   codepen          :
@@ -94,19 +94,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/ruthjohnson95"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/ruthjohnson13/"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@ruthie_johnson"
+  twitter          : "https://twitter.com/ruthie_johnson?lang=en"
   vine             :
   weibo            :
   xing             :
