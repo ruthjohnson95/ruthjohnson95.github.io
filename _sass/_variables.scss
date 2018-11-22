@@ -6,6 +6,9 @@
    Typography
    ========================================================================== */
 
+// Google fonts
+@import url('https://fonts.googleapis.com/css?family=Inconsolata');
+
 $doc-font-size              : 11;
 
 /* paragraph indention */
@@ -15,7 +18,8 @@ $indent-var                 : 1.3em;
 /* system typefaces */
 $serif                      : Georgia, Times, serif;
 $sans-serif                 : -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
-$monospace                  : Monaco, Consolas, "Lucida Console", monospace;
+$monospace                  : "Inconsolata", monospace;
+
 
 /* sans serif typefaces */
 $sans-serif-narrow          : $sans-serif;
@@ -38,7 +42,7 @@ $type-size-2                : 1.953em;  // ~31.248px
 $type-size-3                : 1.563em;  // ~25.008px
 $type-size-4                : 1.25em;   // ~20px
 $type-size-5                : 0.6875em;      // ~16px
-$type-size-6                : 0.7875em;   // ~12px
+$type-size-6                : 0.8875em;   // ~12px
 $type-size-7                : 0.6875em; // ~11px
 $type-size-8                : 0.625em;  // ~10px
 
