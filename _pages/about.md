@@ -18,24 +18,26 @@ Previously, I worked on deep learning applications in genome sequencing at Illum
 
 Recent News
 ======
-* [Nov 2018] Gave a presentation on "A scalable Bayesian framework for estimating the proportion of causal variants for a complex trait from GWAS" at ProbGen at Cold Spring Harbor in NY
-* [Oct 2018] Presented our work, "A unifying framework for joint trait analysis" at ProbGen at Cold Spring Harbor in NY
-* [Sept 2018] Recieved a training grant from the NSF-NRT MENTOR training program 
-* [July 2018] Our work "A unifying framework for joint trait analysis under a non-infinitesimal model" is accepted at ISMB with simultanous publication in *Bioinformatics*
+* <span style="color:#db0a5b">[Nov 2018]</span> Gave a presentation on "A scalable Bayesian framework for estimating the proportion of causal variants for a complex trait from GWAS" at ProbGen at Cold Spring Harbor in NY
+* <span style="color:#db0a5b">[Oct 2018]</span> Presented our work, "A unifying framework for joint trait analysis" at ProbGen at Cold Spring Harbor in NY
+* <span style="color:#db0a5b">[Sept 2018]</span> Recieved a training grant from the NSF-NRT MENTOR training program 
+* <span style="color:#db0a5b">[July 2018]</span> Our work "A unifying framework for joint trait analysis under a non-infinitesimal model" is accepted at ISMB with simultanous publication in *Bioinformatics*
+
+<br>
 
 Publications
 ======
 
 **A unifying framework for joint trait analysis under a non-infinitesimal model**
 
-Ruth Johnson; Huwenbo Shi, Bogdan Pasaniuc*, Sriram Sankararaman; ISMB 2018 (simultaneously published in Bioinformatics)
+__Ruth Johnson__; Huwenbo Shi, Bogdan Pasaniuc*, Sriram Sankararaman; ISMB 2018 (simultaneously published in Bioinformatics)
 
 **Improved methods for multi-trait fine mapping of pleiotropic risk loci**
 
-Gleb Kichaev; Megan Roytman; Ruth Johnson; Eleazar Eskin; Sara; Lindström; Peter Kraft; Bogdan Pasaniuc; Bioinformatics 2016.
+Gleb Kichaev; Megan Roytman; __Ruth Johnson__; Eleazar Eskin; Sara; Lindström; Peter Kraft; Bogdan Pasaniuc; Bioinformatics 2016.
 
 
-
+<br>
 
 Talks
 ======
@@ -48,7 +50,7 @@ Ruth Johnson; Huwenbo Shi, Bogdan Pasaniuc*, Sriram Sankararaman; ISMB 2018 (sim
 
 Gleb Kichaev; Megan Roytman; Ruth Johnson; Eleazar Eskin; Sara; Lindström; Peter Kraft; Bogdan Pasaniuc; Bioinformatics 2016.
 
-
+<br>
 
 Awards & Recognitions
 ======
