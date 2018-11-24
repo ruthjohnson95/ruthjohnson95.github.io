@@ -183,7 +183,7 @@
     padding: 0.5rem 0;
     color: $masthead-link-color;
     text-decoration: none;
-    font-family: $monospace;
+
     &:hover {
       color: $masthead-link-color-hover;
     }
@@ -324,7 +324,7 @@
     display: block;
     padding: 0.125em 0;
     color: inherit;
-    font-family: $monospace; 
+
     &:hover {
       text-decoration: underline;
     }
