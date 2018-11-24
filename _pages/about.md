@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-About
-======
+
 
 Hi, my name is Ruthie (Ruth) Johnson, and I'm currently a second year computer science PhD student at the University of California, Los Angeles working with [Sriram Sankararaman](http://web.cs.ucla.edu/~sriram/http://web.cs.ucla.edu/~sriram/) and [Bogdan Pasaniuc](https://bogdan.dgsom.ucla.edu/pages/). I am interested in the intersection of machine learning and genetics. 
 
@@ -28,13 +27,18 @@ Recent News
 Publications
 ======
 
-**A unifying framework for joint trait analysis under a non-infinitesimal model**
+<span style="color:#db0a5b">**A unifying framework for joint trait analysis under a non-infinitesimal model**</span>
 
 __Ruth Johnson__; Huwenbo Shi, Bogdan Pasaniuc*, Sriram Sankararaman; ISMB 2018 (simultaneously published in Bioinformatics)
 
+<span style="color:#db0a5b">
 **Improved methods for multi-trait fine mapping of pleiotropic risk loci**
+</span>
 
 Gleb Kichaev; Megan Roytman; __Ruth Johnson__; Eleazar Eskin; Sara; Lindström; Peter Kraft; Bogdan Pasaniuc; Bioinformatics 2016.
+
+**(preprints)**
+
 
 
 <br>
