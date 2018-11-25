@@ -21,7 +21,7 @@ Recent News
 * <span style="color:#db0a5b">[Oct 2018]</span> Presented our work, "An analysis of the genetic overlap of 20 complex traits under a non-infinitesimal model" at ASHG 2018 
 * <span style="color:#db0a5b">[Sept 2018]</span> Recieved a training grant from the NSF-NRT MENTOR training program 
 * <span style="color:#db0a5b">[July 2018]</span> Our work "A unifying framework for joint trait analysis under a non-infinitesimal model" is accepted at ISMB with simultanous publication in *Bioinformatics*
-* * <span style="color:#db0a5b">[June 2018]</span> Started working at Illumina as a Deep Learning Engineering Intern doing research in base calling algorithms 
+* <span style="color:#db0a5b">[June 2018]</span> Started working at Illumina as a Deep Learning Engineering Intern doing research in base calling algorithms 
 <br>
 
 Publications
@@ -40,7 +40,7 @@ Gleb Kichaev, Megan Roytman, __Ruth Johnson__, Eleazar Eskin, Sara Lindström, P
 **(preprints)**
 
 [<span style="color:#db0a5b">**Preoperative predictions of in-hospital mortality using electronic medical record data**</span>](https://www.biorxiv.org/content/early/2018/05/25/329813)
-</span>
+
 
 Brian Hill, Robert P Brown, Eilon Gabel, Christine Lee, Maxime Cannesson, Loes Olde Loohuis, **Ruth Johnson**, Brandon Jew, Uri Maoz, Aman Mahajan, Sriram Sankararaman, Ira Hofer, Eran Halperin; bioRxiv 2018.
 
