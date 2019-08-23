@@ -8,7 +8,6 @@ excerpt: ""
 ---
 
 
-
 ### Why I’m worried about attending conferences?
 
 In a [previous post](https://ruthjohnson95.github.io/posts/2019/08/conferences-part1/), I wrote about the reasons why I find attending conferences so beneficial. For most people, I do not think they need to be convinced of why attending conferences is important. However, the thought of attending a far-away event with hundreds or thousands of people probably sounds very daunting to most. Here are some of the thoughts that come up in my mind when I’m attending conferences and what I’ve personally found to be the most helpful. 

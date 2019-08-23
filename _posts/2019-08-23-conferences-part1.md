@@ -1,5 +1,5 @@
 ---
-title: 'Thoughts during my plane ride about trainees attending conferences (Part II)'
+title: 'Thoughts during my plane ride about trainees attending conferences (Part I)'
 date: 2019-08-23
 permalink: /posts/2019/08/conferences-part1/
 tags:
@@ -11,7 +11,6 @@ I had a series of thoughts while flying back from a conference this past weekend
 
 To preface, I’ve been fortunate to be able to attend quite a few conferences as both an undergrad and in my 1st and 2nd year of graduate school. I realize that none of those opportunities would have been possible without the encouragement and financial support of my lab, student travel grants, and training grants. I feel very lucky to have had access to these resources. 
 
-## *Part I*
 
 ### Why should I attend conferences? 
 
