@@ -4,7 +4,7 @@ date: 2019-08-23
 permalink: /posts/2019/08/conferences-part2/
 tags:
   - education
-excerpt: ""
+excerpt: "Some thoughts and advice about attending research conferences."
 ---
 
 
