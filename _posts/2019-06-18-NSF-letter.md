@@ -7,8 +7,6 @@ tags:
 excerpt: ""
 ---
 
-# Open Letter to the NSF Graduate Research Fellowship Program Committee
-
 When I applied to the NSF GRFP last year in 2018, one of my reviews referred to me as 'he/him' throughout the entire review. In frustration, I quickly penned this tweet. I didn't think that this was actually too big of deal, but then after hearing about how widespread this mistake is made, I decided to then pen a letter to the NSF GRFP committee about the incident and the message it sends. The letter is included below and up to this date, there has been no response after emailing the letter. 
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I would like to thank Reviewer #3 for my NSF GRFP application for calling me &#39;he/him&#39; throughout the entire review, despite my Personal Statement describing my experience as a women in engineering and my current and future goals to increase the number of women in the field.</p>&mdash; Ruthie Johnson (@ruthie_johnson) <a href="https://twitter.com/ruthie_johnson/status/1122897607104143362?ref_src=twsrc%5Etfw">April 29, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
