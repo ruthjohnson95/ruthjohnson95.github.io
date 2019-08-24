@@ -32,4 +32,4 @@ Some might think that conferences are just for those who are currently in academ
 Conferences are also a wonderful opportunity to see the world and have a little fun while you work. When traveling to New York for a meeting, I stopped by the Lincoln Center to see a performance by the New York City Ballet. In my wildest dreams, I never thought I’d have the opportunity to actually be in NY to see a show! As a self-proclaimed ‘foodie’, it’s also a great opportunity to try some new food. (Chicago has had the best so far!)    
 
 ---
-#### See Part II: [Why I’m worried about attending conferences?](https://ruthjohnson95.github.io/posts/2019/08/conferences-part1/)
+#### See Part II: [Why I’m worried about attending conferences?](https://ruthjohnson95.github.io/posts/2019/08/conferences-part2/)
