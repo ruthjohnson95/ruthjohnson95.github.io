@@ -32,10 +32,10 @@ Astrid M Manuel, Natalie Dong, Bogdan Pasaniuc; *American Journal of Human Genet
 
 2. [<span style="color:#db0a5b"> **A scalable method for estimating the regional polygenicity of complex traits**</span>](https://www.biorxiv.org/content/10.1101/2020.01.15.908095v1) <br> __Ruth Johnson__, Kathryn S. Burch, Kangcheng Hou, Mario Paciuc, Bogdan Pasaniuc, Sriram Sankararaman; RECOMB 2020.
 
-3. [<span style="color:#db0a5b"> **An automated machine learning-based model predicts postoperative mortality using readilyextractable preoperative electronic health record data**</span>](https://bjanaesthesia.org/article/S0007-0912(19)30646-4/fulltext) </br> Brian Hill, Robert Brown, Eilon Gabel, Christine Lee, Maxime Cannesson, Loes Olde Loohuis, __Ruth Johnson__, Brandon Jew, Uri Maoz, Aman Mahajan, Sriram Sankararaman, Ira Hofer, Eran Halperin; *British
+3. [<span style="color:#db0a5b"> **An automated machine learning-based model predicts postoperative mortality using readilyextractable preoperative electronic health record data**</span>](https://bjanaesthesia.org/article/S0007-0912(19)30646-4/fulltext) <br> Brian Hill, Robert Brown, Eilon Gabel, Christine Lee, Maxime Cannesson, Loes Olde Loohuis, __Ruth Johnson__, Brandon Jew, Uri Maoz, Aman Mahajan, Sriram Sankararaman, Ira Hofer, Eran Halperin; *British
 Journal of Anaesthesia 2019*.
 
-4. [<span style="color:#db0a5b"> **Probabilistic fine-mapping of transcriptome-wide association studies**</span>](https://www.nature.com/articles/s41588-019-0367-1) </br> Nicholas Mancuso, Malika K. Freund, __Ruth Johnson__, Huwenbo Shi, Gleb Kichaev, Alexander Gusev,
+4. [<span style="color:#db0a5b"> **Probabilistic fine-mapping of transcriptome-wide association studies**</span>](https://www.nature.com/articles/s41588-019-0367-1) <br> Nicholas Mancuso, Malika K. Freund, __Ruth Johnson__, Huwenbo Shi, Gleb Kichaev, Alexander Gusev,
 and Bogdan Pasaniuc; *Nature Genetics 2019*.
 
 5. [<span style="color:#db0a5b"> **A unifying framework for joint trait analysis under a non-infinitesimal model**</span>](https://academic.oup.com/bioinformatics/article/34/13/i195/5045708) <br> __Ruth Johnson__, Huwenbo Shi, Bogdan Pasaniuc, Sriram Sankararaman; ISMB 2018 (simultaneously published in Bioinformatics 2018).
