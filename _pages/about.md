@@ -18,7 +18,7 @@ Recent News======
 * <span style="color:#db0a5b">[November 2020]</span> Honorable mention for Stellar Abstract Award at the Program in Quantitative Genomics annual conference
 * <span style="color:#db0a5b">[November 2020]</span> Our paper, "Prior diagnoses and medications as risk factors for COVID-19 in a Los Angeles Health System", is under review and now on *medRxiv* 
 * <span style="color:#db0a5b">[July 2020]</span> Gave a presentation on "A scalable method for estimating the regional polygenicity of complex traits" at RECOMB 
-* <span style="color:#db0a5b">[February 2020]</span> Gave a presentation on "Leveraging electronic health record signatures identify undiagnosed patients with Common Variable Immunodeficiency Disease" at the Institute for Quantitative and Computational Biosciences - Research Seminar
+* <span style="color:#db0a5b">[February 2020]</span> Gave a presentation on "Leveraging electronic health record signatures identify undiagnosed patients with Common Variable Immunodeficiency Disease" at the Institute for Quantitative and Computational Biosciences Research Seminar
 * <span style="color:#db0a5b">[December 2019]</span> Our paper "A scalable method for estimating the regional polygenicity of complex traits" is accepted at RECOMB 2020
 
 <br>
@@ -41,8 +41,7 @@ and Bogdan Pasaniuc; *Nature Genetics 2019*.
 5. [<span style="color:#db0a5b"> **A unifying framework for joint trait analysis under a non-infinitesimal model**</span>](https://academic.oup.com/bioinformatics/article/34/13/i195/5045708) <br> __Ruth Johnson__, Huwenbo Shi, Bogdan Pasaniuc, Sriram Sankararaman; ISMB 2018 (simultaneously published in Bioinformatics 2018).
 
 
-6. [<span style="color:#db0a5b"> **Improved methods for multi-trait fine mapping of pleiotropic risk loci**</span>](https://academic.oup.com/bioinformatics/article/33/2/248/2525720)
-</span> <br> Gleb Kichaev, Megan Roytman, __Ruth Johnson__, Eleazar Eskin, Sara Lindström, Peter Kraft, Bogdan Pasaniuc; Bioinformatics 2017.
+6. [<span style="color:#db0a5b"> **Improved methods for multi-trait fine mapping of pleiotropic risk loci**</span>](https://academic.oup.com/bioinformatics/article/33/2/248/2525720) <br> Gleb Kichaev, Megan Roytman, __Ruth Johnson__, Eleazar Eskin, Sara Lindström, Peter Kraft, Bogdan Pasaniuc; Bioinformatics 2017.
 
 **(preprints)**
 
