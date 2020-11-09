@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-Hi, my name is Ruth Johnson, and I'm currently a second year computer science PhD student at the University of California, Los Angeles working with [Sriram Sankararaman](http://web.cs.ucla.edu/~sriram/http://web.cs.ucla.edu/~sriram/) and [Bogdan Pasaniuc](https://bogdan.dgsom.ucla.edu/pages/). I am interested in the intersection of machine learning and genetics. Previously, I worked on deep learning applications for genome sequencing technology at Illumina as a summer intern. Before that I worked as an R&D engineering intern at Sandia National Laboratories in Albuquerque, NM. 
+Hi, my name is Ruth Johnson, and I'm currently a fourth year computer science PhD student at the University of California, Los Angeles working with [Sriram Sankararaman](http://web.cs.ucla.edu/~sriram/http://web.cs.ucla.edu/~sriram/) and [Bogdan Pasaniuc](https://bogdan.dgsom.ucla.edu/pages/). I am interested in the intersection of machine learning and medical data or biomedical informatics. Previously, I worked on deep learning applications for genome sequencing technology at Illumina as a summer intern. Before that I worked as an R&D engineering intern at Sandia National Laboratories in Albuquerque, NM. 
 
 
 Recent News======
