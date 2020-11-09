@@ -38,10 +38,10 @@ Journal of Anaesthesia 2019*.
 4. [<span style="color:#db0a5b"> **Probabilistic fine-mapping of transcriptome-wide association studies**</span>](https://www.nature.com/articles/s41588-019-0367-1) <br> Nicholas Mancuso, Malika K. Freund, __Ruth Johnson__, Huwenbo Shi, Gleb Kichaev, Alexander Gusev,
 and Bogdan Pasaniuc; *Nature Genetics 2019*.
 
-5. [<span style="color:#db0a5b"> **A unifying framework for joint trait analysis under a non-infinitesimal model**</span>](https://academic.oup.com/bioinformatics/article/34/13/i195/5045708) <br> __Ruth Johnson__, Huwenbo Shi, Bogdan Pasaniuc, Sriram Sankararaman; ISMB 2018 (simultaneously published in Bioinformatics 2018).
+5. [<span style="color:#db0a5b"> **A unifying framework for joint trait analysis under a non-infinitesimal model**</span>](https://academic.oup.com/bioinformatics/article/34/13/i195/5045708) <br> __Ruth Johnson__, Huwenbo Shi, Bogdan Pasaniuc, Sriram Sankararaman; ISMB 2018 (simultaneously published in *Bioinformatics 2018*).
 
 
-6. [<span style="color:#db0a5b"> **Improved methods for multi-trait fine mapping of pleiotropic risk loci**</span>](https://academic.oup.com/bioinformatics/article/33/2/248/2525720) <br> Gleb Kichaev, Megan Roytman, __Ruth Johnson__, Eleazar Eskin, Sara Lindström, Peter Kraft, Bogdan Pasaniuc; Bioinformatics 2017.
+6. [<span style="color:#db0a5b"> **Improved methods for multi-trait fine mapping of pleiotropic risk loci**</span>](https://academic.oup.com/bioinformatics/article/33/2/248/2525720) <br> Gleb Kichaev, Megan Roytman, __Ruth Johnson__, Eleazar Eskin, Sara Lindström, Peter Kraft, Bogdan Pasaniuc; *Bioinformatics 2017*.
 
 **(preprints)**
 
